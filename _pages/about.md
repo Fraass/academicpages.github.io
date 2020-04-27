@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "University of Victoria Micropaleo"
+title: "University of Victoria Micropaleo: Fraass Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
