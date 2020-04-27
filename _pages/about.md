@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My lab works to answer key questions about the functioning of the Earth system. We primarily use planktic foraminifera to examine how they react to biotic and/or abiotic forces. This includes their reaction to climate change. 
+My lab works to answer key questions about the functioning of the Earth system. We primarily use planktic foraminifera and the marine sediment record to examine how plankton evolve in reaction to biotic and/or abiotic forces. This frequently involves looking at the various climate and oceanographic events that happen within the Cenozoic and Cretaceous.
 
 Paleobiology and Paleoceanography
 ======
-We are animated by attempting to weld modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on.
+We are animated by attempting to weld modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts to 
 
 If you are interested in a PhD or MSc, I am taking students starting in 2021. Please get in contact!
 
@@ -26,7 +26,7 @@ Paleoceanography
 ======
 As well as those integrative questions, the group is interested in proxy-based analysis of IODP cores. This work includes shipboard biostratigraphy, like on [IODP Exp. 340](http://publications.iodp.org/proceedings/340/340toc.htm), post-cruise refinements using [higher-resolution biostratigraphy and astrochronology](http://www.micropress.org/microaccess/stratigraphy/issue-328/article-1993), to larger [updates of multiple sites](https://pubs.geoscienceworld.org/cushmanfoundation/jfr/article-abstract/49/4/357/574532/Precision-in-Biostratigraphy-Evidence-For-a?redirectedFrom=fulltext), or paleoclimatic proxy work. Biostratigraphy is at its best when it's a tool to answer other questions, so we're either working to improve important fossil calibrations of key boundaries, working on sedimentological phenomina with climate impacts, or setting up future proxy work. 
 
-I also dabble in improving our understanding of proxy systems. [FIRM](https://github.com/Fraass/FIRM) ([paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016PA003035)) is an example, it allows for estimation of the number of planktic foram tests it takes to get a robust oxygen isotope value. 
+I also dabble in improving our understanding of proxy systems. FIRM ([Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016PA003035), [Model code](https://github.com/Fraass/FIRM)) is an example, it allows for estimation of the number of planktic foram tests it takes to get a robust oxygen isotope value. 
 
 
 For more info
