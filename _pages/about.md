@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "UVic Micropaleo: Understanding the Earth system through a tiny lens"
+title: "University of Victoria Micropaleo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Understanding the Earth system through a tiny lens
+======
 My lab works to answer key questions about the functioning of the Earth system. We primarily use planktic foraminifera and the marine sediment record to examine how plankton evolve in reaction to biotic and/or abiotic forces. This frequently involves looking at the various climate and oceanographic events that happen within the Cenozoic and Cretaceous.
 
 Paleobiology and Paleoceanography
