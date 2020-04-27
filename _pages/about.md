@@ -13,7 +13,8 @@ My lab works to answer key questions about the functioning of the Earth system. 
 
 Paleobiology and Paleoceanography
 ======
-We are animated by attempting to weld modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts to 
+We are animated by welding modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts, to climate changes at the Oligocene Miocene boundary, to bettering conditions for early career researchers.
+
 
 If you are interested in a PhD or MSc, I am taking students starting in 2021. Please get in contact!
 
