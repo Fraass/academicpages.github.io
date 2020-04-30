@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Heat flow in the Lesser Antilles island arc and adjacent back arc Grenada basin"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2012-10-01-Heat flow in the Lesser Antilles island arc and adjacent back arc Grenada basin
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Geochemistry, Geophysics, Geosystems'
+paperurl: ''
+citation: 'Manga, M., Hornbach, M. J., Le Friant, A., Ishizuka, O., Stroncik, N., Adachi, T., Aljahdali, M., Boudon, G., Breitkreuz, C., <b>Fraass, A.J.</b>, Fujinawa, A., Hatfield, R., Jutzeler, M., Kataoka, K., Lafuerza, S., Maeno, F., Martinez-Colon, M., McCanta, M., Morgan, S., Palmer, M. R., Saito, T., Slagle, A., Subramanyam, K.S.V., Tamura, Y., Talling, P. J., Villemant, B., Wall-Palmer, D., & Wang, F., 2012, Heat flow in the Lesser Antilles island arc and adjacent back arc Grenada basin, <i>Geochem. Geophys. Geosyst.</i>, 13, Q08007. doi:10.1029/2012GC004260
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Link to paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GC004260)
