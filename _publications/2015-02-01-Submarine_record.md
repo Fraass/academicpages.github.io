@@ -1,5 +1,5 @@
 ---
-title: Submarine record of volcanic island construction and collapse in the Lesser Antilles: First scientific drilling of submarine volcanic island landslides by IODP Expedition 340"
+title: "Submarine record of volcanic island construction and collapse in the Lesser Antilles: First scientific drilling of submarine volcanic island landslides by IODP Expedition 340"
 collection: publications
 permalink: ""
 excerpt: ''
