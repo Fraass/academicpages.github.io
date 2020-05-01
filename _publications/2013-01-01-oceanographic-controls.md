@@ -11,6 +11,5 @@ citation: 'Peters, S.E., Kelly, D.C., & <b>Fraass, A.J.</b>, 2013, Oceanographic
 Publication of part of MSc research in planktic foram macroevolution along side stratigraphic data from scientific ocean drilling. This publication could be considered a very early version of eODP.
 
 [Link to Paper](https://www.nature.com/articles/nature11815)
-[Link to News & Views](https://www.nature.com/articles/nature11851)
 
-Citation: Peters, S.E., Kelly, D.C., & <b>Fraass, A.J.</b>, 2013, Oceanographic controls on the diversity and extinction of planktonic foraminifera, Nature, 4932:398-401. [News & Views, Holland, pp. 308-9]
+[Link to News & Views](https://www.nature.com/articles/nature11851)
