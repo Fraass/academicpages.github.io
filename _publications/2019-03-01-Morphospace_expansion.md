@@ -5,7 +5,7 @@ permalink: /publication/2019-03-01-Morphospace_expansion
 excerpt: ''
 date: 2019-03-01
 venue: 'Nature Ecology & Evolution'
-paperurl: 'https://www.jstemoutreach.org/article/7557-time-scavengers-an-educational-website-to-communicate-climate-change-and-evolutionary-theory-to-the-public-through-blogs-web-pages-and-social-media-platforms'
+paperurl: 'https://www.nature.com/articles/s41559-019-0835-0'
 citation: 'Lowery, C.M., & <b>Fraass, A.J.</b>, 2019, Morphospace expansion paces taxonomic diversification after end Cretaceous mass extinction, <i>Nature Ecology & Evolution</i>, 3, p. 900–904. DOI: doi.org/10.1038/s41559-019-0835-0 '
 ---
 
