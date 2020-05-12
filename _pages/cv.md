@@ -17,7 +17,7 @@ Education
 
 Appointments
 ======
-* <i>Summer 2021</>: Assistant Professor
+* <i>Summer 2021</i>: Assistant Professor
    * University of Victoria
 
 * 2019-Present: Vice Chancellor's Fellow
@@ -78,7 +78,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service, Awards
+Service & Awards
 ======
 * Discipline Service
   * 2020: Reviewer - Palaeontological Electronica
