@@ -59,28 +59,15 @@ Teaching
   * Geosci 101 - The Earth (as Lecturer and Teaching Assistant)
   * Geosci 201 - History of the Earth (Teaching Assistant)
   * Geosci 103 - Introduction to Oceanography
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service & Awards
 ======
-
 * Discipline Service
   * 2020: Reviewer - Palaeontological Electronica
   * 2019: Reviewer - Nature, Paleoceanography and Paleoclimatology
