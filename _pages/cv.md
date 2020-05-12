@@ -80,6 +80,7 @@ Teaching
   
 Service & Awards
 ======
+
 * Discipline Service
   * 2020: Reviewer - Palaeontological Electronica
   * 2019: Reviewer - Nature, Paleoceanography and Paleoclimatology
