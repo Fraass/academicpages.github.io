@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Interested in my research? Come join me at the [University of Victoria](https://www.uvic.ca/science/seos/index.php) starting in Summer 2021. 
+
 Current
 ======
   * Matt Taylor, MSc. University of Bristol, 2020.
