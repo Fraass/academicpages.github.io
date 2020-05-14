@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Paleobiology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021-spring-teaching-1
+venue: "University of Victoria, SEOS"
+date: 2021-01-01
+location: "Victoria, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is just a dummy post waiting for me to begin teaching again. Once I do, this will be linked to the course webpage. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
