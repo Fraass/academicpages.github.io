@@ -30,8 +30,8 @@ Former
     * _Water column productivity in the Lesser Antilles_
 * Melanie Sorman, Research Experience for Undergraduates. Smithsonian Institution, National Museum of Natural History, 2016.
     * _Morphometric study of the Rotalipora lineage (planktic foraminifera) during the middle and late Cenomanian._
-* Chelsea McQuaid, University of Massachusett - Amherst, 2014-2015.
+* Chelsea McQuaid, University of Massachusetts - Amherst, 2014-2015.
     * _Benthic foraminiferal isotope stratigraphy at Site 744 - Kerguelen Plateau_
     * Publication: [Fraass, A.J., Leckie, R.M., McQuaid, C., Burns, S., DeConto, R., & Zachos, J.C., 2019, Reappraisal of Oligocene-Miocene chronostratigraphy and the Mi-1 event: Ocean Drilling Program Site 744, Kerguelen Plateau, southern Indian Ocean, Stratigraphy.](https://fraass.github.io/publication/2019-03-01-Site_744)
-* Laura Healy, University of Massachusett - Amherst, 2011-2012.
+* Laura Healy, University of Massachusetts - Amherst, 2011-2012.
     * _Foraminiferal stable isotopes at Site 803_
