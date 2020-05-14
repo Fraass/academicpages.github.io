@@ -21,6 +21,7 @@ Current
     
 Former
 ======
+
 * Phoebe O’Brien, MSc. University of Bristol, 2019.
 		* _Foraminiferal size response to nutrient addition during Pliocene and Pleistocene_
 		* Currently a Laboratory Technician at the University of Bristol
