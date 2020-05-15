@@ -15,11 +15,17 @@ Paleobiology and Paleoceanography
 -----
 We are animated by welding modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts, to climate changes at the Oligocene Miocene boundary, to bettering conditions for early career researchers.
 
+eODP
+-----
+![eODP Logo](fraass.github.io/images/eODP_logo label_right.png)
+eODP is a collaborative endeavour from the Academy of Natural Sciences of Drexel University, Texas A&M University, and the University of Wisconsin, with 
+
+
 
 If you are interested in a PhD or MSc, I am taking students at the University of Victoria starting in 2021. Please get in contact!
 
 
-
+fraass.github.io/images/eODP_logo label_right.png
 
 For more info
 ------
