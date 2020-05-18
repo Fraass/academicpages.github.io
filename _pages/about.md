@@ -13,7 +13,9 @@ I and my students work to answer key questions about the functioning of the Eart
 
 Paleobiology and Paleoceanography
 -----
-We are animated by welding modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts, to climate changes at the Oligocene Miocene boundary, to bettering conditions for early career researchers.
+We are animated by welding modern paleobiological techniques to paleoceanographic questions, and visa versa. This means that students in my group work with a variety of methods; computational, taxonomic, proxy, and and so on. We're involved with a number of different projects from large database efforts, to climate changes at the Oligocene Miocene boundary, to the evolution of planktic foraminifera at both the macro- and microevolutionary scale, to bettering conditions for early career researchers. 
+
+If you are interested in a PhD or MSc, I will be taking students at the University of Victoria starting in 2021. Please get in contact!
 
 ![eODP Logo](fraass.github.io/images/eODP_logo label_right.png)
 -----
@@ -25,7 +27,7 @@ eODP is a collaborative effort by myself, [Jocelyn Sessa](https://drexel.edu/coa
 
 
 -----
-If you are interested in a PhD or MSc, I will be taking students at the University of Victoria starting in 2021. Please get in contact!
+
 
 
 For more info
