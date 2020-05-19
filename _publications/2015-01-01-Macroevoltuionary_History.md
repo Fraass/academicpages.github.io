@@ -10,3 +10,4 @@ citation: '<b>Fraass, A.J.</b>, Kelly, D.C., & Peters, S.E., 2015, The Macroevol
 ---
 
 [Link to Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-060614-105059)
+A slightly newer version of the dataset used in this publication is avaliable [here](https://github.com/Fraass/Test-Complexity/blob/master/MasterList%20(vstat%201.05).csv). 
