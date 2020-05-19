@@ -10,3 +10,5 @@ citation: '<b>Fraass, A.J.</b>, Wall-Palmer, D., Leckie, R.M., Hatfield, R.G., B
 ---
 
 [Link to Paper](http://nora.nerc.ac.uk/id/eprint/517156/1/Fraass_U1396_Chronostrat.pdf)
+
+Much of the code written to do this work is in the [StratCore repository](https://github.com/Fraass/StratCore), which is a planned R package.
