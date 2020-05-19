@@ -10,3 +10,7 @@ citation: '<b>Fraass, A.J.</b>, Leckie, R.M., Lowery, C.M., & DeConto, R., 2019,
 ---
 
 [Link to Paper](https://doi.org/10.2113/gsjfr.49.4.357)
+
+[Link to code repository](https://github.com/Fraass/P.-kugleri-precision)
+
+[Link to age models](https://figshare.com/projects/Precision_in_biostratigraphy_Paragloborotalia_kugleri_a_glaciation_and_a_boundary/22639)
