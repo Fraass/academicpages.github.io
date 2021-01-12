@@ -11,20 +11,21 @@ Interested in my research? Come join me at the [University of Victoria](https://
 
 Current
 ======
+
+    
+    
+Former
+======
   * Matt Taylor, MSc. University of Bristol, 2020.
     * Co-advised with Heather Birch (Bristol)
     * _Astronomical forcing drives size change in planktic foraminifera_
   * Katie Jamson, MSc. University of Bristol, 2020.
     * Co-advised with Ben Moon (Bristol)
     * _Drivers of macroevolutionary change in the Planktic Foraminifera_
-    
-    
-Former
-======
-
+    * Currently a Laboratory Technician at the University of Bristol.
 * Phoebe O’Brien, MSc. University of Bristol, 2019.
     * _Foraminiferal size response to nutrient addition during Pliocene and Pleistocene_
-    * Currently a Laboratory Technician at the University of Bristol
+    * Currently a Doctoral student at University of Gothenburg.
 * Barnaby Roberts, MSc. University of Bristol, 2019.
     * _How does the size of foraminifera respond to Milankovitch cycles?_
     * Currently a Doctoral student at Universität Konstanz.
